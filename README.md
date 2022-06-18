@@ -16,6 +16,6 @@ realtime VRPs.
 • Emergency service
 • Taxi cab service 
 
-#Implementation Details
+## Implementation Details
 Pyro/Remote Method Invocation (Java)
 Dijkstra’s shortest path algorithm
